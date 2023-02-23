@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: #f0954086;
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    
+     color: #5a3f0d;
+     font-family: 'Courier New', Courier, monospace;
+}
+h1:hover{
+     color: white;
+
+
+}
+h3{
+
+     color: #5a3f0d;
+     width: 20%;
+     font-family: 'Courier New', Courier, monospace;
+
+
+}
+h3:hover{
+    color: white;
+
+
+}
